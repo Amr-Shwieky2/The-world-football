@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+:root {
+  --primary-color: rgb(23, 27, 133); /* Fresh Green */
+  --secondary-color: rgb(135, 206, 235); /* Sky Blue */
+  --accent-color: rgb(255, 223, 0); /* Sunshine Yellow */
+  --deep-accent-color: rgb(34, 139, 34); /* Leafy Green */
+  --neutral-dark: rgb(153, 101, 21); /* Earth Brown */
+  --text-color: #ffffff;
+  --focus-outline: #ffffff; /* White outline for better visibility on focus */
+}
+
+body {
+    font-family: 'Roboto', sans-serif; /* Cleaner look */
+    margin: 0;
+    background-color: #f4f4f4;
+}
